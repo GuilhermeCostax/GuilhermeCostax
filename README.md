@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Apresentação  
+Sou **Guilherme Costa**, estudante de Engenharia de Software. Estou sempre em busca de aprender e aplicar conceitos de programação de forma prática e eficiente.  
 
-<!--
-**GuilhermeCostax/GuilhermeCostax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tecnologias & Skills  
+- **Linguagens**: C, JavaScript, Java (básico)  
+- **Web Front‑end**: HTML, CSS, JavaScript 
+- **Ferramentas**: Git, GitHub, VS Code, Xcode, IntelliJ
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=c,js,java,html,css)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Formação  
+- **Engenharia de Software** (em andamento)  
+Pontifícia Universidade Católica de Minas Gerais - Coração Eucarístico (PUC) — conclusão prevista: 2028
+
+---
+
+> Sinta‑se à vontade para explorar meus repositórios e contribuir!
