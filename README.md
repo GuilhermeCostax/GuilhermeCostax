@@ -6,7 +6,7 @@ Sou **Guilherme Costa**, estudante de Engenharia de Software. Estou sempre em bu
 - **Web Front‑end**: HTML, CSS, JavaScript, React
 - **Ferramentas**: Git, GitHub, VS Code, Xcode, IntelliJ, Postman
 
-[![My Skills](https://skillicons.dev/icons?i=c,js,java,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,js,react,html,css,docker)](https://skillicons.dev)
 
 ## 🎓 Formação  
 - **Engenharia de Software** (em andamento)  
